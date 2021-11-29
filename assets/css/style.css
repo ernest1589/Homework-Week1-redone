@@ -1,0 +1,145 @@
+:root {
+    --light: #fffaf7;
+    --blueish:  #2a607c;
+    --greenish:  darkcyan;
+    --blue:  #2589bd;
+    --cream: mintcream;
+}
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: var(--cream);
+}
+
+header {
+    padding: 20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    background-color: var(--blueish);
+    color: var(--light);
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+header h1 .seo {
+    color: var(--light);
+}
+
+header nav {
+    padding-top: 20px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+header nav li:hover {
+    background-color: var(--blue);
+    border-radius: 8px;
+}
+
+a {
+    color: var(--light);
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../pictures/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin: 25px;
+}
+
+.float-right {
+    float: right;
+    margin: 25px;
+}
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Exo 2', sans-serif;
+    background-color: var(--blu);    
+}
+
+.benefit {
+    margin-bottom: 32px;
+    color: var(--light);
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Exo 2', sans-serif;
+    background-color: var(--blue);
+    color: var(--light);    
+}
+
+.service img {
+    max-height: 200px;    
+}
+
+.service h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 30px;
+}
