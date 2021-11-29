@@ -18,3 +18,8 @@ The only purpose of the creation of this web page is to showwhat was learned dur
 I took my previous homework as a guide to create this new one, applying new skills that just improve a bit the experience
 
 ## Tests
+This are the two links to test the page and the link to my GitHub
+Web Page:
+https://ernest1589.github.io/Homework-Week1-redone/
+GitHub:
+https://github.com/ernest1589/Homework-Week1-redone
