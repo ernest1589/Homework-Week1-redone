@@ -1,4 +1,4 @@
-# <Homework Week 1>
+# <Homework Week 1-redone>
 
 - The motivation to create this proyect is to put in practice what we learn through the first 3 clases of this Bootcamp.
 - I build this proyect to test my knowledge, to see how much of what i was able to get and I am able to show.
@@ -9,9 +9,9 @@
 -The only step required for you to have access is to click on the link for you to open the web page created.
 ## Usage
 The only purpose of the creation of this web page is to showwhat was learned during the first week, has no specific purpose. Here are a couple of screenshots of how the webpage looks
-    ![Screenshot1](assets/pictures/screenshot1.PNG)
-    ![Screenshot2](assets/pictures/screenshot2.PNG)
-    ![Screenshot3](assets/pictures/screenshot3.PNG)
+    ![Screenshot1](assets/screenshots/screenshot1.PNG)
+    ![Screenshot2](assets/screenshots/screenshot2.PNG)
+    ![Screenshot3](assets/screenshots/screenshot3.PNG)
 
 
 ## Credit
